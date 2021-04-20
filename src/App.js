@@ -9,6 +9,7 @@ import MyUploader from './uploader'
       <header className="App-header">
       <MyUploader />
        <div className="app-col-2">
+       <pre className="cid" id="out" ></pre>
       </div>
       </header>
     </div>
